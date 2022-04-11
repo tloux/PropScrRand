@@ -1,9 +1,9 @@
 Package: PropScrRand
 Type: Package
 Title: Propensity Score Methods for Assigning Treatment in Randomized Trials
-Version: 1.1
-Date: 2013-11-14
+Version: 1.1.1
+Date: 2022-04-11
 Author: Travis M. Loux
-Maintainer: Travis M. Loux <loux@slu.edu>
+Maintainer: Travis M. Loux <travis.loux@slu.edu>
 Description: Contains functions to run propensity-biased allocation to balance covariate distributions in sequential trials and propensity-constrained randomization to balance covariate distributions in trials with known baseline covariates at time of randomization.  Currently only supports trials comparing two groups.
 License: GPL-3
