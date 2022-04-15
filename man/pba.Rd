@@ -43,11 +43,11 @@ The function \code{pbaAgain} takes as input the output from a previous call to \
 }
 
 \references{
-Loux, T.M. (2013) A simple, flexible, and effective covariate-adaptive treatment allocation procedure.  Statistics in Medicine 32(22), 3775-3787.  \href{http://onlinelibrary.wiley.com/doi/10.1002/sim.5837/abstract}{doi: 10.1002/sim.5837}
+Loux, T.M. (2013) A simple, flexible, and effective covariate-adaptive treatment allocation procedure.  Statistics in Medicine 32(22), 3775-3787. DOI: 10.1002/sim.5837
 }
 
 \author{
-Travis M. Loux
+Travis Loux
 }
 
 \examples{

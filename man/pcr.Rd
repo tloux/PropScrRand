@@ -27,8 +27,12 @@ Given the parameters, \code{pcr} generates \code{M} unique permutations by calli
   \item{best}{The column indices of the permutations in \code{treatments} with propensity score variance below \code{cutoff}.}
 }
 
+\references{
+Loux, T.M. (2015) Randomization, matching, and propensity scores in the design and analysis of experimental studies with known covariates. Statistics in Medicine. 34(4), 558-570. DOI: 10.1002/sim.6361
+}
+
 \author{
-Travis M. Loux
+Travis Loux
 }
 
 \examples{
